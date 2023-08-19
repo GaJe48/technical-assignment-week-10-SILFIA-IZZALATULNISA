@@ -7,4 +7,4 @@ coding sensor DHT22 dengan Ubidots untuk menghitung suhu dalam °C beserta scree
 
 Ubidots Dashboard Screenshot: 
 
-![dashboard](https://github.com/GaJe48/technical-assignment-week-10-ABI-MUSA-ABDURRAHMAN/blob/master/ubidots-dashboard-suhu.png)
+![dashboard](https://github.com/GaJe48/technical-assignment-week-10-BAGAS-AJI-SAPUTRA/blob/master/ubidots-dashboard-suhu.png)
